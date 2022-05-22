@@ -7,7 +7,7 @@
 
 ### What is DIANA?
 
-DIANA is a large-scale dialogue-narrative parallel corpus. 
+DIANA is a large-scale dialogue-narrative parallel corpus that is proposed in our ACL 2022 paper [Learning-by-Narrating: Narrative Pre-Training for Zero-Shot Dialogue Comprehension](https://aclanthology.org/2022.acl-short.23.pdf).
 It contains 243K (DIAlogue, NArrative) pairs derived from subtitles and synopses of 47,050 English movies and TV episodes.
 
 To facilitate the training of current NLP models, we first split subtitles and synopses into smaller segments. 
@@ -36,7 +36,7 @@ We hope that DIANA will promote future research in various ways.
 ### Download
 
 We provide a sampled dataset in this repository that contains 1k (dialogue, narrative) pairs. 
-To download the entire dataset, please fill in this Google form 
+To download the entire dataset, please fill in this Google form (coming soon!)
 and we'll send the link to your email address within a week.
 
 
