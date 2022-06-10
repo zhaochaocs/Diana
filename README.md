@@ -36,7 +36,7 @@ We hope that DIANA will promote future research in various ways.
 ### Download
 
 We provide a sampled dataset in this repository that contains 1k (dialogue, narrative) pairs. 
-To download the entire dataset, please fill in this Google form (coming soon!)
+To download the entire dataset, please fill in this [Google Form](https://forms.gle/hKjQHTrxuvj9WmZU9)
 and we'll send the link to your email address within a week.
 
 
