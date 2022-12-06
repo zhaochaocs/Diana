@@ -1,6 +1,6 @@
 
 
-## DIANA
+# DIANA: a Dialogue Narration Dataset
 
 ![Drag Racing](diana_overview.png)
 
@@ -40,6 +40,13 @@ To download the entire dataset, please fill in this [Google Form](https://forms.
 and we'll send the link to your email address within a week.
 
 
+### Related Dataset
+If you are interested in understanding and summarizing narratives, welcome to check out [NarraSum](https://github.com/zhaochaocs/narrasum), 
+a large-scale abstractive narrative summarization dataset proposed in our 
+EMNLP Findings 2022 paper [NARRASUM: A Large-Scale Dataset for Abstractive Narrative Summarization](https://arxiv.org/abs/2212.01476).
+It contains 122K (Document, Summary) pairs collected from plot descriptions of 22.8K unique movies and 28.5K unique TV episodes
+
+
 ### Citation 
 
 ```bibtex
@@ -58,7 +65,6 @@ and we'll send the link to your email address within a week.
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2022.acl-short.23",
     pages = "212--218",
-    abstract = "Comprehending a dialogue requires a model to capture diverse kinds of key information in the utterances, which are either scattered around or implicitly implied in different turns of conversations. Therefore, dialogue comprehension requires diverse capabilities such as paraphrasing, summarizing, and commonsense reasoning. Towards the objective of pre-training a zero-shot dialogue comprehension model, we develop a novel narrative-guided pre-training strategy that learns by narrating the key information from a dialogue input. However, the dialogue-narrative parallel corpus for such a pre-training strategy is currently unavailable. For this reason, we first construct a dialogue-narrative parallel corpus by automatically aligning movie subtitles and their synopses. We then pre-train a BART model on the data and evaluate its performance on four dialogue-based tasks that require comprehension. Experimental results show that our model not only achieves superior zero-shot performance but also exhibits stronger fine-grained dialogue comprehension capabilities. The data and code are available at https://github.com/zhaochaocs/DIANA.",
 }
 ```
 
