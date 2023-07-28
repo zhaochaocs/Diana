@@ -50,21 +50,12 @@ It contains 122K (Document, Summary) pairs collected from plot descriptions of 2
 ### Citation 
 
 ```bibtex
-@inproceedings{zhao-etal-2022-learning,
-    title = "Learning-by-Narrating: Narrative Pre-Training for Zero-Shot Dialogue Comprehension",
-    author = "Zhao, Chao  and
-      Yao, Wenlin  and
-      Yu, Dian  and
-      Song, Kaiqiang  and
-      Yu, Dong  and
-      Chen, Jianshu",
-    booktitle = "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
-    month = may,
-    year = "2022",
-    address = "Dublin, Ireland",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2022.acl-short.23",
-    pages = "212--218",
+@inproceedings{zhao2022learning,
+  title={Learning-by-Narrating: Narrative Pre-Training for Zero-Shot Dialogue Comprehension},
+  author={Zhao, Chao and Yao, Wenlin and Yu, Dian and Song, Kaiqiang and Yu, Dong and Chen, Jianshu},
+  booktitle={Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)},
+  pages={212--218},
+  year={2022}
 }
 ```
 
